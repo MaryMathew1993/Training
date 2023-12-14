@@ -14,4 +14,8 @@ double areaofcircle=3.14*r*r;
 System.out.println("Area of circle "+areaofcircle);
 return areaofcircle;
 }
+
+public static void square() {
+	System.out.println("Square");
+}
 }
